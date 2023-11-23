@@ -1,1 +1,0 @@
-import{k as t,b as n,c as r,X as o}from"./entry.301f67b8.js";const s={},a={class:"relative z-10 inline-flex rounded-xl text-xs font-medium px-3 py-1.5 text-gray-500 bg-blue-100 dark:bg-blue-900 dark:text-gray-300"};function c(e,_){return n(),r("div",a,[o(e.$slots,"default")])}const d=t(s,[["render",c]]);export{d as _};
